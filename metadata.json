@@ -1,0 +1,6 @@
+{
+  "name": "CampusVoice AI",
+  "description": "College grievance management system empowering students to submit and track campus issues transparently, and enabling administrators to triage, assign, and resolve them efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
